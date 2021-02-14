@@ -34,7 +34,7 @@ Vue.use(VueMq, {
 Vue.config.productionTip = false;
 
 // Axios.defaults.baseURL = 'https://192.168.100.3:8080/bliblimart/api';
-Axios.defaults.baseURL = 'https:backend.blimart.com';
+Axios.defaults.baseURL = 'http://backend.blimart.com';
 // Axios.defaults.baseURL = 'http://localhost';
 // if (process.env.NODE_ENV === 'development') {
 //   Axios.defaults.baseURL = 'http://localhost';
